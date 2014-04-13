@@ -10,3 +10,10 @@ bin
 # C++ files
 *.o
 *.exe
+*.res*
+*.stackdump
+Byrokracie
+Priprava
+*.txt
+*.xls
+*.zip
