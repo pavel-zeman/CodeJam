@@ -1,0 +1,12 @@
+*.class
+.metadata
+bin
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# C++ files
+*.o
+*.exe
