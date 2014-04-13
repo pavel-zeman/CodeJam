@@ -1,0 +1,22 @@
+3
+1 2 10
+cookies
+0 2 cookies:400
+4 0 cookies:320
+3 3 5
+cookies milk! cereal
+0 2 cookies:360 cereal:110
+4 0 cereal:90 milk:150
+-3 -3 milk:200 cookies:200
+10 6 10
+a b c d e f g h i j
+1 1 a:1 b:200 c:3 d:4 e:5 f:6 g:7 h:8 i:9 j:10
+2 2 a:1 b:190 c:3 d:4 e:5 f:6 g:7 h:8 i:9 j:10
+3 3 a:1 b:180 c:3 d:4 e:5 f:6 g:7 h:8 i:9 j:10
+4 4 a:1 b:170 c:3 d:4 e:5 f:6 g:7 h:8 i:9 j:10
+5 5 a:1 b:160 c:3 d:4 e:5 f:6 g:7 h:8 i:9 j:10
+6 6 a:1 b:150 c:3 d:4 e:5 f:6 g:7 h:8 i:9 j:10
+7 7 a:1 b:140 c:3 d:4 e:5 f:6 g:7 h:8 i:9 j:10
+8 8 a:1 b:130 c:3 d:4 e:5 f:6 g:7 h:8 i:9 j:10
+9 9 a:1 b:120 c:3 d:4 e:5 f:6 g:7 h:8 i:9 j:10
+10 10 a:1 b:110 c:3 d:4 e:5 f:6 g:7 h:8 i:9 j:10

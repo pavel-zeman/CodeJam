@@ -1,0 +1,27 @@
+define abs(x) {
+  if (x < 0) return (-x);
+  return (x);
+}
+
+define gcd(a, b) {
+  while (b != 0) {
+    r = a % b;
+    a = b;
+    b = r;
+  }
+  return a;
+}
+
+c = read();
+for(i=1;i<=c;i++) {
+  n = read();
+  for(x=0;x<n;x++) {
+    t[x] = read();
+  }
+  tmax = abs(t[1] - t[0]);
+  for(x=2;x<n;x++) {
+    tmax = gcd(tmax, abs(t[x] - t[x - 1])); 
+  }
+  print "Case #", i, ": ", (tmax - (t[0] % tmax)) % tmax, "\n"; 
+}
+quit
